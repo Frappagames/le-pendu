@@ -14,7 +14,10 @@ Mes outils :
 **Langage** : JAVA avec LibGDX  
 **Design** : GIMP
 
+Apperçu :
+---------
 
+![Aperçu](https://raw.githubusercontent.com/neeftarah/le-pendu/master/design_sources/preview.png)
 
 
 ---------------------
