@@ -7,6 +7,16 @@ Développé à l'aide de LibGDX il à pour plateformes cibles :
 * Android
 * Desktop (Windows, Mac, Linux via JAVA)
 
+Mes outils :
+------------
+
+**IDE** : Android Studio / NetBeans  
+**Langage** : JAVA avec LibGDX  
+**Design** : GIMP
+
+
+
+
 ---------------------
 
 This is an Hangman game developped, in French, with LibGDX.
