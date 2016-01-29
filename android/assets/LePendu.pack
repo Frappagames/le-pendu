@@ -1,0 +1,159 @@
+
+LePendu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pendu0
+  rotate: false
+  xy: 1, 2884
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu1
+  rotate: false
+  xy: 1, 2370
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu2
+  rotate: false
+  xy: 636, 2884
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu3
+  rotate: false
+  xy: 1, 1856
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu4
+  rotate: false
+  xy: 636, 2370
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu5
+  rotate: false
+  xy: 1271, 2884
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu6
+  rotate: false
+  xy: 1, 1342
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu7
+  rotate: false
+  xy: 636, 1856
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu8
+  rotate: false
+  xy: 1271, 2370
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu9
+  rotate: false
+  xy: 1, 828
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+pendu10
+  rotate: false
+  xy: 636, 1342
+  size: 633, 512
+  orig: 633, 512
+  offset: 0, 0
+  index: -1
+penduWin
+  rotate: false
+  xy: 1271, 1856
+  size: 630, 512
+  orig: 630, 512
+  offset: 0, 0
+  index: -1
+decos
+  rotate: false
+  xy: 1, 547
+  size: 633, 279
+  orig: 633, 279
+  offset: 0, 0
+  index: -1
+gagne
+  rotate: false
+  xy: 636, 1202
+  size: 630, 138
+  orig: 630, 138
+  offset: 0, 0
+  index: -1
+perdu
+  rotate: false
+  xy: 1271, 1718
+  size: 630, 136
+  orig: 630, 136
+  offset: 0, 0
+  index: -1
+easyBtn
+  rotate: false
+  xy: 1, 417
+  size: 631, 128
+  orig: 631, 128
+  offset: 0, 0
+  index: -1
+hardBtn
+  rotate: false
+  xy: 1, 287
+  size: 631, 128
+  orig: 631, 128
+  offset: 0, 0
+  index: -1
+normalBtn
+  rotate: false
+  xy: 1, 157
+  size: 631, 128
+  orig: 631, 128
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 636, 1119
+  size: 523, 81
+  orig: 523, 81
+  offset: 0, 0
+  index: -1
+playBtn
+  rotate: false
+  xy: 1271, 1416
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+newBtn
+  rotate: false
+  xy: 1, 1
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+menuBtn
+  rotate: false
+  xy: 1906, 3242
+  size: 110, 154
+  orig: 110, 154
+  offset: 0, 0
+  index: -1
