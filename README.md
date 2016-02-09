@@ -17,7 +17,7 @@ Mes outils :
 Apperçu :
 ---------
 
-![Aperçu](https://raw.githubusercontent.com/neeftarah/le-pendu/master/design_sources/preview.png)
+![Aperçu](https://raw.githubusercontent.com/neeftarah/le-pendu/master/design_sources/preview.jpg)
 
 
 ---------------------
