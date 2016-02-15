@@ -2,7 +2,7 @@ Le Pendu
 ========
 
 Un jeu de pendu, tout ce qu'il y a de plus classique.
-Développé à l'aide de LibGDX il à pour plateformes cibles :
+Développé à l'aide de LibGDX, il a pour plateformes cibles :
 * Le WEB (HTML5 + WebGL via GWT)
 * Android
 * Desktop (Windows, Mac, Linux via JAVA)
@@ -14,7 +14,7 @@ Mes outils :
 **Langage** : JAVA avec LibGDX  
 **Design** : GIMP
 
-Apperçu :
+Aperçu :
 ---------
 
 ![Aperçu](https://raw.githubusercontent.com/neeftarah/le-pendu/master/design_sources/preview.jpg)
