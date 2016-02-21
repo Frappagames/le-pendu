@@ -8,17 +8,19 @@ import com.badlogic.gdx.scenes.scene2d.ui.ImageButton;
 import com.badlogic.gdx.scenes.scene2d.ui.VerticalGroup;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
+import com.badlogic.gdx.utils.Disposable;
 import com.frappagames.pendu.Screens.PlayScreen;
 
 /**
  * Created by Miridan on 28/01/16.
  */
-public class KeyboardActor extends VerticalGroup {
+public class KeyboardActor extends VerticalGroup implements Disposable {
     private HorizontalGroup hg;
     private ImageButton button;
+    private final Texture alphabet;
 
     public KeyboardActor(final PlayScreen playScreen) {
-        Texture alphabet    = new Texture("alphabet.png");
+        alphabet = new Texture("alphabet.png");
 
         for (int i = 0 ; i < 26 ; i++) {
             if (i%7 == 0) {
@@ -37,5 +39,9 @@ public class KeyboardActor extends VerticalGroup {
 
             hg.addActor(button);
         }
+    }
+
+    public void dispose() {
+        alphabet.dispose();
     }
 }

@@ -10,6 +10,7 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.ui.HorizontalGroup;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
+import com.badlogic.gdx.utils.Disposable;
 import com.frappagames.pendu.LePendu;
 import java.util.Random;
 
@@ -17,7 +18,7 @@ import java.util.Random;
  *
  * @author jmoreau
  */
-public class WordActor extends HorizontalGroup {
+public class WordActor extends HorizontalGroup implements Disposable {
     private final Texture alphabet;
     private Random random = new Random();
     private String text;
