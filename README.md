@@ -1,5 +1,9 @@
 Le Pendu
 ========
+![Development status](https://img.shields.io/badge/Development%20status-Done-brightgreen)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Frappagames/le-pendu)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/Frappagames/le-pendu/latest)
+![GitHub](https://img.shields.io/github/license/Frappagames/le-pendu)
 
 Un jeu de pendu, tout ce qu'il y a de plus classique.
 Développé à l'aide de LibGDX, il a pour plateformes cibles :
